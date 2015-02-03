@@ -1,0 +1,45 @@
+To start, simply doubleclick the TowerDefence (rocket) icon.
+ To stop, simply press escape.
+
+  This little game was somethign I made just messing around with programming.
+
+At the beginning, an intro screen will ask you to select a screen resolution.
+ You can try different ones for a better view. If your screen goes black simply press escape and try
+a smaller resolution.
+ 
+ You start the game looking out of a tower (completely not visable unless in overhead view, which was causing problems so i disabled it.)
+ Every day, 2 waves of "deathballs" will roll in.. first day starts mid day and only has 1 wave (really slow as there aren't many targets)
+ Left click fires your lazer.
+After killing everything, Wait for night to fall. 
+After night hits, instructions will show up allowing purchasable upgrades,
+Or you can press and hold "spacebar" to advance time to the next day. (visualized on the clock in upper-right of screen)
+
+ Radar, once purchased, shows deathballs based on their size on the lower right.
+larger balls move faster and take more shots.. (usually a good idea to take them out first)
+as you shoot the balls, they will shrink and roll slower until they have 0 life left and vanish
+
+The crosshairs upgrade give you a reticle in the middle of the screen making it easier to target the Deathballs.
+When combined with the Radar, It will show a line ON the radar in the direction you are facing.
+
+ Shot speed is how fast your bullets move. (Very slow at start)
+
+ Shot power is how strong the shots are.
+
+ Max HP is how much Maximum hits you can take before dying. Buy this if you get hit alot.. lol. (Larger balls do more damage when you are hit by them)
+
+ HP when bought repairs damage to your tower.
+
+ Zoom, when purchased will let you zoom in your camera (Hold Rightclick) for fine tuned shots.
+
+
+*note* in the purchase screen The debug "graphics memory available" was a debug I was using and never removed it, and covers up the
+Radar purchase.. It says "5000 Radar"
+
+  Every 10 levels or so, a "Boss-ball" will appear that takes alot of shots
+if you didn't buy a power upgrade.
+
+This game never ends, and will progressively get harder, SO i guess the ultimate goal is to see how long you can survive.
+ It starts to get really hectic around level 15.
+
+
+ Take care, all.
