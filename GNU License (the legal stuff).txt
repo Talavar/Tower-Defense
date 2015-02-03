@@ -1,0 +1,24 @@
+ This work is licensed under the current GNU documentation. 2/2/2015
+
+The GNU Free Documentation License (GNU FDL or simply GFDL) is a "copyleft" license for free documentation, designed by the Free Software Foundation (FSF) for the GNU Project. It is similar to the GNU General Public License, giving readers the rights to copy, redistribute, and modify a work and requires all copies and derivatives to be available under the same license. Copies may also be sold commercially, but, if produced in larger quantities (greater than 100), the original document or source code must be
+made available to the work's recipient.
+
+Conditions
+
+This material, licensed under the current version of the license, can be used for any purpose as long as the use meets certain conditions.
+
+    All previous authors of the work must be attributed.
+    All changes to the work must be logged.
+    All derivative works must be licensed under the same license.
+    The full text of the license, unmodified invariant sections as defined by the author if any, and any other added warranty disclaimers (such as a general disclaimer alerting readers that the document may not be accurate for example) and copyright notices from previous versions must be maintained.
+    Technical measures such as DRM may not be used to control or obstruct distribution or editing of the document.
+
+
+
+  ----Unmodifiable----
+  Original Author: Mark Pounds JR.
+
+ Original Disclaimer: This work in it's original state is virus free. Any and all derivatives not downloaded from the original authors "GITHUB" account, are exactly that: A derivative, which the original author is not responsible for. This software in it's original executable state has no damaging/virus capabilities to/against a users computer system, or any other cpu-derivative that is capable of running it. Author is not responsible for ANY/ALL damages to a system during use of this software, as the software itself is not capable of such feats.
+------------------------------
+     
+
